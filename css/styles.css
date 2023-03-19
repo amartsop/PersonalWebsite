@@ -11416,6 +11416,8 @@ section.resume-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
   max-width: 75rem;
+
+  /* padding-top: 40rem; */
 }
 section.resume-section .resume-section-content {
   width: 100%;
